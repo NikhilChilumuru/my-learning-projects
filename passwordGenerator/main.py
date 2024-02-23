@@ -21,7 +21,7 @@ for number in range(nr_numbers):
 password_g = letters_g + symbols_g + numbers_g
 print(f"Your password is: {password_g}")
 
-
+# test line
 #Hard Level - Order of characters randomised:
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 pass_list = list(password_g)
